@@ -1,7 +1,4 @@
 # Emotional-Support-And-Wellness-App
-Because it matters !
-
-# Emotional-Support-And-Wellness-App
 
 **Because it matters!**
 
